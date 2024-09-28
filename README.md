@@ -1,7 +1,9 @@
 # About me
 Hi, I am Jessica! I am a Data Analyst
 ## Currently working on
-SQL, POWER BI, EXCEL, GOOGLE SHEETS
+-SQL
+-POWER BI
+-EXCEL/GOOGLE SHEETS
 
 <!--
 **jessicataufa/jessicataufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
